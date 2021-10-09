@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/28 00:50:55.000.559,=E:\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/28 00:50:55.000.449,=E:\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/28 00:51:27.000.647,E:\C++Builder 10.3\膚色擷取&amp;五官擷取\Unit1.cpp=E:\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/28 00:51:27.000.647,E:\C++Builder 10.3\膚色擷取&amp;五官擷取\Unit1.dfm=E:\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/09/28 00:51:27.000.647,E:\C++Builder 10.3\膚色擷取&amp;五官擷取\Unit1.h=E:\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/09/28 00:51:28.000.635,E:\C++Builder 10.3\膚色擷取&amp;五官擷取\Project1PCH1.h=E:\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/28 00:51:29.000.732,E:\C++Builder 10.3\膚色擷取&amp;五官擷取\Project1.cbproj=E:\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020/09/28 23:50:19.000.011,=E:\C++Builder 10.3\膚色擷取&amp;五官擷取\Unit2.cpp</Transaction>
+    <Transaction>2020/09/28 23:52:00.000.391,=E:\C++Builder 10.3\膚色擷取&amp;五官擷取\Unit2.cpp</Transaction>
+    <Transaction>2020/09/29 00:38:44.000.131,=E:\C++Builder 10.3\膚色擷取&amp;五官擷取\Unit3.cpp</Transaction>
+    <Transaction>2020/09/29 00:39:39.000.911,=E:\C++Builder 10.3\膚色擷取&amp;五官擷取\CC.cpp</Transaction>
+    <Transaction>2020/09/29 00:40:08.000.031,=E:\C++Builder 10.3\膚色擷取&amp;五官擷取\CC.h</Transaction>
+    <Transaction>2020/09/29 00:41:49.000.981,E:\C++Builder 10.3\膚色擷取&amp;五官擷取\Unit2.cpp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="CC.cpp"/>
+    <File Path="CC.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
